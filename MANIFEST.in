@@ -1,0 +1,2 @@
+include _editdistance.h
+include editdistance_s_build.py
