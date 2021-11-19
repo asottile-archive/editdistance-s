@@ -1,3 +1,11 @@
+# DEPRECATED
+
+- upstream now provides wheels
+- I think (?) the algorithm isn't a correct Levenshtein distance
+- I created [ukkonen](https://github.com/asottile/ukkonen) instead
+
+___
+
 [![Build Status](https://dev.azure.com/asottile/asottile/_apis/build/status/asottile.editdistance-s?branchName=master)](https://dev.azure.com/asottile/asottile/_build/latest?definitionId=70&branchName=master)
 [![Azure DevOps coverage](https://img.shields.io/azure-devops/coverage/asottile/asottile/70/master.svg)](https://dev.azure.com/asottile/asottile/_build/latest?definitionId=70&branchName=master)
 [![pre-commit.ci status](https://results.pre-commit.ci/badge/github/asottile/editdistance-s/master.svg)](https://results.pre-commit.ci/latest/github/asottile/editdistance-s/master)
